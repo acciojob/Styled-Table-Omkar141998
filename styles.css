@@ -1,1 +1,30 @@
 /* your code */
+.table{
+    width: 1000px;
+    height: 300px;
+    background-color: beige;
+    border-radius: 20px;
+  
+}
+.table-heading{
+    background-color: rgb(116, 116, 245);
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.table-data{
+    background-color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 20px;
+
+}
+.row1{
+    margin-left: 20px;
+    background-color: white;
+    }
+.row2{
+  
+    background-color: rgb(231, 223, 223);
+} 
